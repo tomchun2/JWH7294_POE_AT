@@ -1,5 +1,5 @@
 #define FW_VERSION_MAJOR 0
-#define FW_VERSION_MINOR 3
+#define FW_VERSION_MINOR 5
 
 #define MCLK_HZ 1000000UL // 3MHz MCLK, the way the MCU starts up
 
